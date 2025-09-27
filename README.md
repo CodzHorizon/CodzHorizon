@@ -1,10 +1,10 @@
 <!-- Animated waving hand GIF can be changed or replaced by any other animated icon of your choice -->
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/> I'm [Your Name]!
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/> I'm CodzHorizon!
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=CodzHorizon&style=flat-square&color=blue" alt=""/>
 </p>
 
 ---
@@ -53,7 +53,7 @@
 <!-- You can add GitHub stats, trophies, or animation here -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodzHorizon" alt="GitHub Streak" />
 </p>
 
 ---
