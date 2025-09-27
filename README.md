@@ -65,4 +65,3 @@
 
 ---
 
-✨ _“Code, create, repeat — that’s how I grow.”_
