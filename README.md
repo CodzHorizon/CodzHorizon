@@ -49,9 +49,8 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://instagram.com/in/codzhorizon)
-[![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:kshitiz.8@gmail.com)
-[![Portfolio]
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/in/codzhorizon)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kshitiz.8@gmail.com)
 
 ---
 
