@@ -11,20 +11,12 @@
 
 ## 🚀 About Me
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/man_typing.gif" width="24px" alt="Coding Animation" />  
-  <b>Full Stack Web Developer (MERN)</b> – Crafting seamless, scalable web solutions.  
-</p>
+- 🧑‍💻 ![coding](https://raw.githubusercontent.com/your-username/your-repo/main/assets/coding.gif) Full Stack Web Developer (MERN) – Crafting seamless, scalable web solutions.
 
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="24px" alt="Globe Animation" />  
-  Currently working on my <b>personal portfolio website</b> (my 10th exciting project!)  
-</p>
+- 🌍 ![globe](https://raw.githubusercontent.com/your-username/your-repo/main/assets/globe.gif) Currently working on my **personal portfolio website** (my 10th exciting project!).
 
-<p align="left">
-  <img src="https://c.tenor.com/Z3gxyfHlfxMAAAAM/fire-flame.gif" width="24px" alt="Fire Animation" />  
-  Passionate about creating <b>responsive</b> and <b>modern</b> web experiences.  
-</p>
+- 🔥 ![fire](https://raw.githubusercontent.com/your-username/your-repo/main/assets/fire.gif) Passionate about creating **responsive** and **modern** web experiences.
+
 
 ---
 
