@@ -11,9 +11,20 @@
 
 ## 🚀 About Me
 
-- 🧑‍💻 Full Stack Web Developer (MERN)
-- 🌍 Currently building my **personal portfolio website** (10th project!)
-- 🔥 Passionate about creating seamless, responsive web experiences
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/man_typing.gif" width="24px" alt="Coding Animation" />  
+  <b>Full Stack Web Developer (MERN)</b> – Crafting seamless, scalable web solutions.  
+</p>
+
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="24px" alt="Globe Animation" />  
+  Currently working on my <b>personal portfolio website</b> (my 10th exciting project!)  
+</p>
+
+<p align="left">
+  <img src="https://c.tenor.com/Z3gxyfHlfxMAAAAM/fire-flame.gif" width="24px" alt="Fire Animation" />  
+  Passionate about creating <b>responsive</b> and <b>modern</b> web experiences.  
+</p>
 
 ---
 
@@ -40,9 +51,9 @@
 
 - 🎯 **9 Projects Completed:**  
   - Full-stack apps, dashboards, APIs, authentication, and responsive UIs
-  - [YourProject1](#) - Short one-liner description
-  - [YourProject2](#) - Short one-liner description
-  - ... *(Add or update with your own project links and details)*
+  - [Get Me A Chai](https://get-me-a-chai-self.vercel.app/) - Support Your Favourite Creators
+  - [LinkHub](https://link-hub-two.vercel.app/) - Stylish Link Manager
+  - [Netflix ](https://codzhorizon.github.io/Netflix-HomePage-Clone/) - Netlfix Homepage UI Clone 
 - 🚧 **Portfolio website in progress!**
 
 ---
