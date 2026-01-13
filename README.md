@@ -35,17 +35,6 @@ hobbies: ["Gaming", "coding", "Badminton", "Art"]
 
 ```
 
-# 📊<img src="images/rocket.png" alt="Rocket" width="25" height="25" /> Metrics
-
-<p align="center">
-  <img src="github-metrics.svg" alt="Github Metrics" width="400">
-  <br/>
-  <img src="metrics.plugin.achievements.svg" alt="Achievements" width="800">
-  <br/>
-  <img src="metrics.plugin.habits.facts.svg" alt="Habits Facts" width="400">
-  <img src="metrics.plugin.languages.details.svg" alt="Languages Details" width="400">
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=120&section=footer"/>
 </p>
