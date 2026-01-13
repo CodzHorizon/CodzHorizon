@@ -65,3 +65,15 @@
 
 ---
 
+<h1 align="center">Hey I'm Kiran Babu Muddam</h1> 
+
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kiranmuddam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiranmuddam/)
+[![Twitter](https://img.shields.io/twitter/follow/0x_kiran?style=flat-square&logo=twitter)](https://twitter.com/0x_kiran)
+[![GitHub](https://img.shields.io/badge/GitHub-kiranmuddam-lightgrey?style=flat-square&logo=github)](https://www.github.com/kiranmuddam/)
+[![Medium Badge](https://img.shields.io/badge/-blog.kiranmuddam.com-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://blog.kiranmuddam.com)](https://blog.kiranmuddam.com)
+[![Gmail Badge](https://img.shields.io/badge/-kiraniiitn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kiraniiitn@gmail.com)](mailto:kiraniiitn@gmail.com)
+
+
