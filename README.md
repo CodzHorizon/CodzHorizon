@@ -37,13 +37,13 @@ I’m currently working on my **personal portfolio website**, where I showcase m
 
 Click on any project to view it live:
 
-1. **[LinkHub]([https://your-website-link.com])**  
+1. **[LinkHub](https://your-website-link.com)**  
    Linktree Clone for easy, stylish link management.
 
-2. **[Nexlink]([https://nexlink-url-shortener.vercel.app/])**  
+2. **[Nexlink](https://nexlink-url-shortener.vercel.app/)**  
    URL shortener Website.
 
-3. **[Netflix Home page clone]([https://codzhorizon.github.io/Netflix-HomePage-Clone/])**  
+3. **[Netflix Home page clone](https://codzhorizon.github.io/Netflix-HomePage-Clone/)**  
    Netflix home page Clone Using HTML5 & CSS3.
 ---
 
