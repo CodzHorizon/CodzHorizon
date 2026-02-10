@@ -4,7 +4,7 @@
 
 <!-- Tamanho: width="850" -->
 <p align="center">
-  <img src="images/banner_cyberpunk.gif" alt="Welcome!" /> 
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/images/banner_cyberpunk.gif" alt="Welcome!" />
 </p>
 
 ```yaml
