@@ -37,15 +37,14 @@ I’m currently working on my **personal portfolio website**, where I showcase m
 
 Click on any project to view it live:
 
-1. **Portfolio Website**  
-   🔗 https://your-website-link.com
+1. **[LinkHub]([https://your-website-link.com](https://link-hub-two.vercel.app/))**  
+   Personal portfolio showcasing my skills, projects, and experience.
 
-2. **Project Two Name**  
-   🔗 https://your-project-two-link.com
+2. **[Nexlink]([https://your-project-two-link.com](https://nexlink-url-shortener.vercel.app/))**  
+   Brief description of what this project does.
 
-3. **Project Three Name**  
-   🔗 https://your-project-three-link.com
-
+3. **[Netflix Home page clone]([https://your-project-three-link.com](https://codzhorizon.github.io/Netflix-HomePage-Clone/))**  
+   Brief description of what this project does.
 ---
 
 ### 🔝 Top Contributed Repo
