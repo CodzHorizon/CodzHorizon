@@ -4,7 +4,7 @@
 
 <!-- Tamanho: width="850" **-->
 <p align="center">
-  <img src="https://dl.glitter-graphics.com/pub/2139/2139479f32ecr7jz1.gif" alt="WELCOME" />
+  <img src="https://clipart-library.com/2024/welcome-images-animated/welcome-images-animated-9.gif" alt="Welcome" width="250" />
 </p>
 
 ```yaml
