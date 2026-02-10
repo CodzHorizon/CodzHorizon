@@ -4,7 +4,7 @@
 
 <!-- Tamanho: width="850" **-->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Welcome" />
+  <img src="https://dl.glitter-graphics.com/pub/2139/2139479f32ecr7jz1.gif" alt="WELCOME" />
 </p>
 
 ```yaml
