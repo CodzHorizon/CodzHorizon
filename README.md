@@ -2,10 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient"/>
 </p>
 
-<!-- Tamanho: width="850" -->
+<!-- Tamanho: width="850" **-->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Welcome" />
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Welcome" />
 </p>
+
 
 ```yaml
 
