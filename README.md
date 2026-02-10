@@ -4,7 +4,7 @@
 
 <!-- Tamanho: width="850" **-->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Welcome" />
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" alt="Welcome" />
 </p>
 
 
