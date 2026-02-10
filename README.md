@@ -33,9 +33,7 @@ I’m a self-taught beginner MERN stack developer with a stronger focus on front
 ---
 [![](https://visitcount.itsvg.in/api?id=codzhorizon&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 
-<!-- You can add GitHub stats, trophies, or animation here -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodzHorizon" alt="GitHub Streak" />
