@@ -4,8 +4,11 @@
 
 <!-- Tamanho: width="850" **-->
 <p align="center">
-  <img src="https://clipart-library.com/2024/welcome-images-animated/welcome-images-animated-5.gif" alt="Welcome" width="250" />
+
+# WELCOME
+
 </p>
+
 ```yaml
 
 name: Kshitiz Sharma
