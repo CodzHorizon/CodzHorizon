@@ -3,11 +3,9 @@
 </p>
 
 <!-- Tamanho: width="850" **-->
-<p align="center">
-
-# WELCOME
-
-</p>
+<div align="center">
+  <h1>WELCOME</h1>
+</div>
 
 ```yaml
 
