@@ -7,7 +7,6 @@
   <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" alt="Welcome" />
 </p>
 
-
 ```yaml
 
 name: Kshitiz Sharma
