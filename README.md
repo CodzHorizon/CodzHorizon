@@ -45,10 +45,6 @@ Click on any project to view it live:
 
 3. **[Netflix Home page clone](https://codzhorizon.github.io/Netflix-HomePage-Clone/)**  
    Netflix home page Clone Using HTML5 & CSS3.
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codzhorizon&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codzhorizon&icon=0&color=0)](https://visitcount.itsvg.in)
