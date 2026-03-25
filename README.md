@@ -4,7 +4,7 @@
 
 <!-- Tamanho: width="850" **-->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodzHorizon&label=PROFILE+VIEWS&color=lightblue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=CodzHorizon&label=PROFILE+VIEWS&color=cyan&style=for-the-badge" />
 </p>
 
 
