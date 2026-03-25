@@ -5,7 +5,11 @@
 <!-- Tamanho: width="850" **-->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodzHorizon&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=CodzHorizon&label=Visitors&color=ff69b4&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodzHorizon&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 </p>
 
 <div align="center">
@@ -34,8 +38,10 @@ I’m a self-taught MERN stack developer focused on building modern, responsive,
 
 ## 🛠️ Tools & Platforms
 
+## 💻 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,mongodb,nodejs,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,vercel,postman" />
 </p>
 
 ##  🌐 Connect With Me
