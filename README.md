@@ -32,19 +32,7 @@ I’m a self-taught MERN stack developer focused on building modern, responsive,
 🧠 Learning JavaScript deeply + exploring new tech  
 🎯 Goal: Build scalable products & startups
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://instagram.com/codzhorizon">
-    <img src="https://img.shields.io/badge/Instagram-%23111111.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:kshitizsh.8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23111111.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kshitizsharma28/">
-    <img src="https://img.shields.io/badge/LinkedIn-%23111111.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+>
 
 ## 💻 Tech Stack
 
