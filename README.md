@@ -32,7 +32,19 @@ I’m a self-taught MERN stack developer focused on building modern, responsive,
 🧠 Learning JavaScript deeply + exploring new tech  
 🎯 Goal: Build scalable products & startups
 
-## 🛠️ Tools & Platforms
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/codzhorizon">
+    <img src="https://img.shields.io/badge/Instagram-%23111111.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:kshitizsh.8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23111111.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kshitizsharma28/">
+    <img src="https://img.shields.io/badge/LinkedIn-%23111111.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ## 💻 Tech Stack
 
@@ -51,19 +63,6 @@ I’m a self-taught MERN stack developer focused on building modern, responsive,
   </a>
   <a href="https://www.linkedin.com/in/kshitizsharma28/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-  </a>
-</p>
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://instagram.com/codzhorizon">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-  </a>
-  <a href="mailto:kshitizsh.8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kshitizsharma28/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
 </p>
 
