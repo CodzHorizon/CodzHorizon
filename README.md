@@ -80,11 +80,11 @@ Click on any project to view it live:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodzHorizon&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodzHorizon&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodzHorizon&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodzHorizon&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodzHorizon&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
