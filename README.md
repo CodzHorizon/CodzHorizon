@@ -40,17 +40,17 @@ I’m a self-taught MERN stack developer focused on building modern, responsive,
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,vercel,postman" />
 </p>
 
-##  🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/codzhorizon">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-ff006e?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
   </a>
   <a href="mailto:kshitizsh.8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
   </a>
   <a href="https://www.linkedin.com/in/kshitizsharma28/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
   </a>
 </p>
 
@@ -79,17 +79,15 @@ Click on any project to view it live:
 ---
 [![](https://visitcount.itsvg.in/api?id=codzhorizon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Github Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodzHorizon&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodzHorizon&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodzHorizon&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodzHorizon&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodzHorizon" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodzHorizon&theme=tokyonight" height="170"/>
 </p>
 
 ---
