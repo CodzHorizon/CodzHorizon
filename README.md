@@ -12,6 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=CodzHorizon&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodzHorizon&color=0e75b6&style=flat-square" />
+</p>
+
 <div align="center">
   <h1>WELCOME</h1>
 </div>
