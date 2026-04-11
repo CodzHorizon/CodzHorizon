@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=CodzHorizon&label=PROFILE+VIEWS&color=blue&style=for-the-badge" />
 </p>
 
-<div align="center">
+<div align="center"> 
   <h1>WELCOME</h1>
 </div>
 <p align="center">
